@@ -1,1 +1,2 @@
-hello world
+hello worlid
+editing file to test merge conflicts

@@ -1,2 +1,4 @@
-hello worlid
+hello world
 editing file to test merge conflicts
+sample file
+>>>>>>> 63a676ef0a6cf6d61379eb0bc24250d2e167ffe5
